@@ -22,33 +22,14 @@ web_learning from basic to advanced
   * Textbox 3: result
   * 1 button: result (next to textbox 3)
 
-```
-<!DOCTYPE html>
-   <html>   </html>
-      <head>   </head>
-          <title>   </title>
-
-      <body>   </body>
-          <h1> Heading </h1>
-          <p> Paragraph  </p>
-          <hr/> Horizontal line
-
-      <center>
-          <p> Paragrah/line here </p>
-      </center> 
-      
-      <pre>Preserve formatting</pre>
-      
-      non-breaking space &nbsp -> <p>Tran&nbsp;Le&nbsp;Nha&nbsp;Tran</p>
- ```
- 
- #### Formatting
- italic -> <i>   </i> 
- underlined -> <u>   </u>
- bold -> <b>   </b>
- strike -> <strike>   </strike>
- monospace -> <
- 
-
-
-  
+## Tutorial 2
+- Web Beauty
+  * 1 more css file
+- UI
+  * Title bar - CALCULATOR
+  * Textbox 1: number 1 
+  * Dropdown ( + - x % )
+  * Textbox 2: number 2
+  * Result formatted in <h1> on right corner
+- Library/template
+  * Bootstrap http://getbootstrap.com/ 
