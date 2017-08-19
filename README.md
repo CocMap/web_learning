@@ -37,8 +37,17 @@ web_learning from basic to advanced
           <p> Paragrah/line here </p>
       </center> 
       
-      <pre>   </pre>
-```
+      <pre>Preserve formatting</pre>
+      
+      non-breaking space &nbsp -> <p>Tran&nbsp;Le&nbsp;Nha&nbsp;Tran</p>
+ ```
+ 
+ #### Formatting
+ italic -> <i>   </i> 
+ underlined -> <u>   </u>
+ bold -> <b>   </b>
+ strike -> <strike>   </strike>
+ monospace -> <
  
 
 
