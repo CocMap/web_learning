@@ -36,6 +36,8 @@ web_learning from basic to advanced
       <center>
           <p> Paragrah/line here </p>
       </center> 
+      
+      <pre>   </pre>
 ```
  
 
