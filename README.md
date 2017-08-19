@@ -1,4 +1,4 @@
-# Wed Learning
+# WEB LEARNING
 web_learning from basic to advanced
 
 ## Learning process
