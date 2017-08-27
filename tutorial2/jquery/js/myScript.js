@@ -20,6 +20,6 @@ function Calculator_function() {
             result = number1 + number2;
             break;
     }
-    document.getElementById("result").value = result;
+    document.getElementById("result").innerHTML = result;
 }
 

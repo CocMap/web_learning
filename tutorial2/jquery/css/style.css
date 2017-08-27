@@ -1,14 +1,13 @@
-.form-control {
-    margin-left: 80px;
-    margin-bottom: 15px;
-    width: 15%;
+.calculation {
+    margin-top: 85px;
 }
 
-.h1, .h2, .h3, h1, h2, h3 {
-    margin-top: 80px;
-    margin-bottom: 10px;
+.form-control {
+    margin-bottom: 15px;
+    width: 80%;
 }
-/* 
-.form-group {
-    margin-left: 80px;
-} */
+
+#result {
+    font-size: 100px;
+    display: inline-block;
+}
