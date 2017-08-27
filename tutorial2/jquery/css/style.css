@@ -1,5 +1,6 @@
 .form-control {
     margin-left: 80px;
+    margin-bottom: 15px;
     width: 15%;
 }
 
@@ -7,3 +8,7 @@
     margin-top: 80px;
     margin-bottom: 10px;
 }
+/* 
+.form-group {
+    margin-left: 80px;
+} */
