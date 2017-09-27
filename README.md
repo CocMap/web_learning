@@ -12,24 +12,5 @@ web_learning from basic to advanced
 10. REST API and JSON
 11. Final task: build a simple to-do list with react redux (with API call from server)
 
-## Tutorial 1
-- Basic Web Design
-  * 1 html file
-  * 1 js file
-- UI 
-  * Textbox 1: number 1 
-  * Textbox 2: number 2
-  * Textbox 3: result
-  * 1 button: result (next to textbox 3)
 
-## Tutorial 2
-- Web Beauty
-  * 1 more css file
-- UI
-  * Title bar - CALCULATOR
-  * Textbox 1: number 1 
-  * Dropdown ( + - x % )
-  * Textbox 2: number 2
-  * Result formatted in `<h1>` on right corner
-- Library/template
-  * Bootstrap http://getbootstrap.com/ 
+
