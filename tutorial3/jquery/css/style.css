@@ -1,13 +1,40 @@
-.calculation {
-    margin-top: 85px;
-}
-
 .form-control {
     margin-bottom: 15px;
     width: 80%;
 }
 
-#result {
-    font-size: 100px;
-    display: inline-block;
+.Simple_Ecommerce{
+    margin-top: 85px;
+}
+
+.title{
+    font-weight: bold;
+
+}
+
+.description{
+    font-weight: bold;
+    color: red;
+}
+
+.img-custom{
+    width: 150px;
+    height: 180px;
+}
+
+.well{
+    width: 180px;
+    height: 315px;
+}
+
+#num_of_item{
+    font-weight: bold;
+    font-size: 60px;
+    color:blue;
+}
+
+#text_num_of_item{
+    font-weight: bold;
+    font-size: 20px;
+    color: black
 }

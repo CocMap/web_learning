@@ -1,25 +1,12 @@
-function Calculator_function() {
-    var number1 = parseInt(document.getElementById("number1").value);
-    var number2 = parseInt(document.getElementById("number2").value);
-    var select = document.getElementById("opt");
-    var opt = select.options[select.selectedIndex].value;
+var total_item_click = 0;
 
-    var result;
 
-    switch (opt) {
-        case "subtraction":
-            result = number1 - number2;
-            break;
-        case "multiplication":
-            result = number1 * number2;
-            break;
-        case "division":
-            result = number1 / number2;
-            break;
-        default:
-            result = number1 + number2;
-            break;
-    }
-    document.getElementById("result").innerHTML = result;
+function ADD_TOTAL_ITEM(){
+    total_item_click++;
+    document.getElementById("num_of_item").innerHTML = total_item_click;
+}
+
+function TRASH_CLICK(){
+    document.getElementById("num_of_item").innerHTML = 0;       //set back to ZERO
 }
 
