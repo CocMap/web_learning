@@ -1,13 +1,14 @@
-var total_item_click = 0;
+var totalItem = 0;
 
-
-function ADD_TOTAL_ITEM(){
-    total_item_click++;
-    document.getElementById("num_of_item").innerHTML = total_item_click;
+function addTotalItem() {
+    totalItem++;
+    document.getElementById("num_of_item").innerHTML = totalItem;
 }
 
-function TRASH_CLICK(){
-    document.getElementById("num_of_item").innerHTML = 0;       //set back to ZERO
-    total_item_click = 0;                                       //get num_of_item back to ZERO 
+function resetTotalItem() {
+    // set back to ZERO
+    document.getElementById("num_of_item").innerHTML = 0;
+    // set num of items back to ZERO
+    totalItem = 0;
 }
 
