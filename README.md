@@ -6,11 +6,10 @@ web_learning from basic to advanced
 2. Templating with bootstrap
 5. Using Chrome's Dev Tool
 6. Explore JS framework (ReactJS, SPA) and ES6
+- https://github.com/lukehoban/es6features
+- https://www.tutorialspoint.com/nodejs/index.htm
 7. Understand virtual dom in ReactJS
 8. Understand Redux
 9. Learn basic concepts about http, https, DOM
 10. REST API and JSON
 11. Final task: build a simple to-do list with react redux (with API call from server)
-
-
-
